@@ -20,6 +20,8 @@
 
 - electron、cocos creator、nestjs初始模版创建
 - cocos creator自动化部署
+  
+cocos creator、nestjs两个模版涉及到非常多的具体功能，不能直接开源仓库。所以尚未完成将基础功能抽离为模版。
 
 [仓库地址](https://github.com/qimingzizeinan/best-chain)
 
